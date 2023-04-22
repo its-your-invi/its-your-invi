@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cursive&size=35&pause=1000&color=44F726&width=435&lines=Hello+There%2C+I'm+Rik+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=11F726&width=435&lines=Hello+There%2C+It's+Rik+%3AD)](https://git.io/typing-svg)
 ================================================================================================================================================================
 
 ![ezgif-3-b9c7ddbeea](https://user-images.githubusercontent.com/95538354/233770978-0d2f0b1c-7d66-44ae-8d47-ff8485cbfca2.gif)
