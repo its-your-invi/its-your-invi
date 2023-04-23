@@ -16,7 +16,7 @@ I'm a passoinate self-taught _Programmer_
 - ✉️ Contact me: wriddhammandal1307@gmail.com
 - Currently struggling with PCM 🙂
 
-<h2> Languages </h2>
+<h2> Tools / Tech Stacks: </h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -29,7 +29,7 @@ I'm a passoinate self-taught _Programmer_
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h2> Stats </h2>
+<h2> Stats: </h2>
 
 ![Rik's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-your-invi&hide=stars&count_private=true&theme=radical)
 
