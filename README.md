@@ -3,9 +3,6 @@
 
 ![ezgif-3-b9c7ddbeea](https://user-images.githubusercontent.com/95538354/233770978-0d2f0b1c-7d66-44ae-8d47-ff8485cbfca2.gif)
 
-[![Profile Count](https://visitcount.itsvg.in/api?id=its-your-invi&label=Profile%20Views&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)
-
-
 
 I'm a passoinate self-taught _Programmer_ 
 
