@@ -35,6 +35,6 @@ I'm a passoinate self-taught _Programmer_
 <h2> Socials </h2>
 
 <p align="left"> <a href="https://www.github.com/its-your-invi" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/95538354/233769462-ca55ef50-1fc9-4bc2-beb8-60224622f14e.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/its_your_invi/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/95538354/233769194-bb608fcb-e762-43ab-8e56-6d132ad487d3.svg" width="32" height="32" /></a>
-<a href="https://t.me/its_your_invi/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/95538354/233769379-93c9a2c4-78af-4395-b397-7f831a5821fc.png" width="35" height="35" /></a></p>
+<a href="https://t.me/rik_here/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/95538354/233769379-93c9a2c4-78af-4395-b397-7f831a5821fc.png" width="35" height="35" /></a></p>
 
 
