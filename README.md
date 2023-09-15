@@ -6,12 +6,11 @@
 
 I'm a passoinate self-taught _Programmer_ 
 
-- 💻 Started Coding a year ago
+- 💻 Started Coding 2 year ago
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Still Minor
+- ⚡ Fun fact: Doesn't Exist
 - 🌍 From: Earth
 - ✉️ Contact me: wriddhammandal1307@gmail.com
-- Currently struggling with PCM 🙂
 
 <h2> Tools / Tech Stacks: </h2>
 
